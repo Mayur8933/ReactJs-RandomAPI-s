@@ -1,0 +1,27 @@
+.Cat{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.catbtn{
+    text-align: right;
+    margin-top: 10px;
+    align-items: center;
+}
+.Cat_card{
+    text-align: center;
+    align-items: center;
+}
+
+.catImg{
+    text-align: center;
+    margin-top: 20px;
+    align-items: center;
+    width: 400px;
+    height: 370px;
+}
+.dogImg_link{
+    margin-top: 10px;
+    color:cornflowerblue;
+}

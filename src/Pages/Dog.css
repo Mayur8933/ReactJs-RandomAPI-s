@@ -1,0 +1,26 @@
+.Dog{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.DogBtn{
+    text-align: center;
+    margin-top: 10px;
+}
+.Dog_card{
+    text-align: center;
+    align-items: center;
+}
+
+.dogImg{
+    text-align: center;
+    margin-top: 20px;
+    align-items: center;
+    width: 400px;
+    height: 370px;
+}
+.catImg_link{
+    margin-top: 10px;
+    color:cornflowerblue;
+}
